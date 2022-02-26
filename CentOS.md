@@ -1,0 +1,1 @@
+CentOS = [[RHEL]] - branding/logos
