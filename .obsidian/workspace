@@ -7,12 +7,8 @@
         "id": "cd061c55104a028e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Environment Variables.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "direc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Environment Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "cd061c55104a028e",
   "lastOpenFiles": [
-    "Environment Variables.md",
-    "Man Pages.md",
-    "Shell.md",
-    "PATH.md",
-    "root.md",
-    "Prompt.md",
-    "Desktop Distribution.md",
-    "Linux Distro.md",
+    "Permission.md",
+    "File Creation Mask.md",
+    "Group.md",
+    "ls.md",
     "Server Distribution.md",
-    "opt.md"
+    "SSH.md",
+    "Symbolic Link.md",
+    "Directory.md",
+    "usr.md",
+    "Shell.md"
   ]
 }

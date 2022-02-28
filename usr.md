@@ -1,6 +1,6 @@
 User related programs of [[Linux Distro]]
 
-Application related directories located under /user/local/*
+Application related [[Directory]]es located under /user/local/*
 
 For example: 
 /usr/local/myapp/log

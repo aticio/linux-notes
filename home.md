@@ -1,1 +1,1 @@
-user directories of [[Linux Distro]]
+user [[Directory]]es of [[Linux Distro]]

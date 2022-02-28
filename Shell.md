@@ -4,6 +4,6 @@ Default interface to user in [[Linux Distro]]
 
 * [[Man Pages]] provides help for commands.
 
-* Use which command to look at the directory of a command.
+* Use which command to look at the [[Directory]] of a command.
 
 * -h or --help will provedi short help about the options of that command
