@@ -1,0 +1,1 @@
+Controls the command search path. Contains a list of directories.
