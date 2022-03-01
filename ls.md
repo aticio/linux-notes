@@ -3,8 +3,8 @@ For listing [[Directory]] content.
 
 ![[Pasted image 20220301004850.png]]
 
-* Hidden files begin with a period.
-* To show hidden files: *ls -a*
+* Hidden [[file]]s begin with a period.
+* To show hidden [[file]]s: *ls -a*
 
 ![[Pasted image 20220301005135.png]]
 
@@ -21,4 +21,4 @@ For listing [[Directory]] content.
 
 ------------------------
 
-For the file names with space, use quotes. It is not recommended to use spaces in file names.
+For the [[file]] names with space, use quotes. It is not recommended to use spaces in [[file]] names.

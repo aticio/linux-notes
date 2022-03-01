@@ -35,4 +35,4 @@ Example:
 
 ----------------------------------
 
-File creation mask determines default [[Permission]].
+[[file]] creation mask determines default [[Permission]].

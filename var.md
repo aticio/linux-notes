@@ -1,1 +1,1 @@
-/var is for variable data. Mostly for log files of apps or os in [[Linux Distro]]
+/var is for variable data. Mostly for log [[file]]s of apps or os in [[Linux Distro]]

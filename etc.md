@@ -1,1 +1,1 @@
-System configuration files of [[Linux Distro]]
+System configuration [[file]]s of [[Linux Distro]]

@@ -7,8 +7,12 @@
         "id": "cd061c55104a028e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "tar.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "direc",
+                "query": "file",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "cd061c55104a028e",
   "lastOpenFiles": [
-    "Permission.md",
-    "File Creation Mask.md",
-    "Group.md",
-    "ls.md",
-    "Server Distribution.md",
-    "SSH.md",
+    "tar.md",
+    "Emacs.md",
+    "vi.md",
+    "nano.md",
+    "find.md",
+    "var.md",
     "Symbolic Link.md",
-    "Directory.md",
-    "usr.md",
-    "Shell.md"
+    "Permission.md",
+    "ls.md",
+    "locate.md"
   ]
 }
