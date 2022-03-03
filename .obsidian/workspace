@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tar.md",
+            "file": "SFTP.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file",
+                "query": "user",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tar.md",
+                "file": "SFTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "cd061c55104a028e",
   "lastOpenFiles": [
-    "tar.md",
-    "Emacs.md",
-    "vi.md",
-    "nano.md",
-    "find.md",
-    "var.md",
-    "Symbolic Link.md",
-    "Permission.md",
-    "ls.md",
-    "locate.md"
+    "SFTP.md",
+    "SCP.md",
+    "SSH.md",
+    "file.md",
+    "grep.md",
+    "Group.md",
+    "usr.md",
+    "pipe.md",
+    "IO.md",
+    "wildcards.md"
   ]
 }
