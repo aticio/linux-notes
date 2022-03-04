@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SFTP.md",
+            "file": "logging.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "user",
+                "query": "chmod",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SFTP.md",
+                "file": "logging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "cd061c55104a028e",
   "lastOpenFiles": [
-    "SFTP.md",
-    "SCP.md",
-    "SSH.md",
-    "file.md",
-    "grep.md",
-    "Group.md",
-    "usr.md",
-    "pipe.md",
-    "IO.md",
-    "wildcards.md"
+    "logging.md",
+    "BIOS.md",
+    "deb.md",
+    "rpm.md",
+    "Permission.md",
+    "File Creation Mask.md",
+    "package manager.md",
+    "package.md",
+    "process.md",
+    "Shell.md"
   ]
 }
