@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mount point.md",
+            "file": "Group.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chmod",
+                "query": "usermod",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mount point.md",
+                "file": "Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "cd061c55104a028e",
   "lastOpenFiles": [
+    "Group.md",
+    "Permission.md",
+    "lvm.md",
+    "fstab.md",
     "mount point.md",
     "file system.md",
     "partition.md",
     "logging.md",
     "BIOS.md",
-    "deb.md",
-    "rpm.md",
-    "Permission.md",
-    "File Creation Mask.md",
-    "package manager.md"
+    "deb.md"
   ]
 }
