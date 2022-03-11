@@ -10,3 +10,7 @@ Creating file system:
 Example:
 *mkfs -t ext3 /dev/sdb2*
 
+---------------------------------
+
+You can mount a [[mount point]] to the file system.
+

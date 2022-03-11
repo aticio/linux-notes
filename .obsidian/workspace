@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Group.md",
+            "file": "lvm.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "usermod",
+                "query": "logical vol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Group.md",
+                "file": "lvm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "cd061c55104a028e",
   "lastOpenFiles": [
+    "lvm.md",
+    "file system.md",
+    "mount point.md",
+    "Shell.md",
+    "SSH.md",
     "Group.md",
     "Permission.md",
-    "lvm.md",
     "fstab.md",
-    "mount point.md",
-    "file system.md",
     "partition.md",
-    "logging.md",
-    "BIOS.md",
-    "deb.md"
+    "logging.md"
   ]
 }

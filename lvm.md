@@ -15,3 +15,22 @@ Data Mirroring is available.
 You can take point-in-time snapshots of [[file system]]s.
 
 ![[Pasted image 20220308125106.png]]
+
+----------------------------------
+![[Pasted image 20220310181123.png]]
+
+-----------------------------
+Listing storage devices: *lvmdiskscan*
+
+Creating physical volume: *pvcreate /dev/sdn*
+Listing physical volumes: *pvs*
+
+Creating volume groups: *vgcreate vg_app /dev/sdn*
+Listing volume groups: *vgs*
+
+Creating logical volume: *lvcreate -L 20G -n lv_data vg_app*
+Listing logical volumes: *lvs*
+Detailed logical volume info: *lvdisplay*
+Creating a logical volume from remaining space: *lvcreate -l 100%FREE -n lv_logs vg_app*
+
+Then you can create a [[file system]] on top of logical volume.
