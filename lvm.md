@@ -34,3 +34,12 @@ Detailed logical volume info: *lvdisplay*
 Creating a logical volume from remaining space: *lvcreate -l 100%FREE -n lv_logs vg_app*
 
 Then you can create a [[file system]] on top of logical volume.
+
+------------------------
+
+Extending volume groups: *vgextend vg_app /dev/sdc*
+
+Extended logical volume: *lvextend -L +5G -r /dev/vg_app/lv_data*
+(-r is important here. Means resize)
+
+If you forgat resizing: resize2fs /dev/vg_app/lv_data
