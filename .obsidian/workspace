@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "logical vol",
+                "query": "lvexte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,14 +91,14 @@
   "active": "cd061c55104a028e",
   "lastOpenFiles": [
     "lvm.md",
+    "fdisk.md",
+    "partition.md",
     "file system.md",
     "mount point.md",
+    "MBR.md",
+    "GPT.md",
+    "partition table.md",
     "Shell.md",
-    "SSH.md",
-    "Group.md",
-    "Permission.md",
-    "fstab.md",
-    "partition.md",
-    "logging.md"
+    "SSH.md"
   ]
 }
