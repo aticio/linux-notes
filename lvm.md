@@ -14,6 +14,9 @@ Data Mirroring is available.
 
 You can take point-in-time snapshots of [[file system]]s.
 
+Without lvm you would create a [[file system]] on a disk partition. But with lvm you create a [[file system]] on a logical volume.
+
+
 ![[Pasted image 20220308125106.png]]
 
 ----------------------------------
