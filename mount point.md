@@ -16,7 +16,9 @@ Mounting with mount:
 *mount /dev/sdb3 /opt*
 
 ----------------------
-Manuel mounts do not persiste. If you want to make mounts persist between reboots, add an entry in the /etc/fstab. [[etc]] [[fstab]]
+Manuel mounts do not persists. If you want to make mounts persist between reboots, add an entry in the /etc/fstab. [[etc]] [[fstab]]
+
+After adding a record to [[fstab]], for mounting just type *mount /app*. It will read the [[fstab]] and get the necessary information from the file.
 
 ---------------------------------------
 
@@ -27,6 +29,9 @@ Unmounting with the umount command
 Example:
 *umount /opt*
 *umount /dev/sdb3*
+
+
+After that if necessary you can remove logical volume.
 
 -----------------------------------
 Preparing swap space:

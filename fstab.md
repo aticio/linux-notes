@@ -9,3 +9,5 @@ Each entry is made up of 6 fileds
 	- fsck order
 
 If fsck order is 0 it is not going to be checked. If it is 1, it is going to be checked first and goes on.
+
+fstab is used for permanent [[mount point]]s
