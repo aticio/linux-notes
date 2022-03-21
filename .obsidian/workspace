@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "grep.md",
+            "file": "Shell.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grep.md",
+                "file": "Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ea01a2f892e3da52",
   "lastOpenFiles": [
+    "Shell.md",
     "grep.md",
     "script.md",
     "bin.md",
@@ -97,7 +98,6 @@
     "deb.md",
     "var.md",
     "Permission.md",
-    "DHCP.md",
-    "IP Address.md"
+    "DHCP.md"
   ]
 }

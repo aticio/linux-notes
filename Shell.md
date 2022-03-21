@@ -17,3 +17,5 @@ Default interface to user in [[Linux Distro]]
 ------------------------------------------------
 
 ![[Pasted image 20220304015415.png]]
+
+!$ will give you the arguments from last command.
