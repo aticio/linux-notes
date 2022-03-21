@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "script.md",
+            "file": "grep.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "script.md",
+                "file": "grep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ea01a2f892e3da52",
   "lastOpenFiles": [
+    "grep.md",
     "script.md",
     "bin.md",
     "File Creation Mask.md",
@@ -97,7 +98,6 @@
     "var.md",
     "Permission.md",
     "DHCP.md",
-    "IP Address.md",
-    "process.md"
+    "IP Address.md"
   ]
 }
